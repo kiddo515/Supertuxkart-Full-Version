@@ -242,4 +242,4 @@ This repository serves as the official landing page for SuperTuxKart. The softwa
 **Get the most recent version of SuperTuxKart today!**
 
 ---
-**Last updated:** 2026-09-20 07:19:16 UTC
+**Last updated:** 2026-09-20 12:41:39 UTC
